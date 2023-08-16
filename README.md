@@ -1,3 +1,3 @@
 # yukayrep
-#editig th file
+#editig the file
 #under progress
